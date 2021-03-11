@@ -1,0 +1,24 @@
+.navbar-dark .navbar-nav .nav-link {
+  margin: 0;
+}
+
+.height-100 {
+  height: 100vh;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.product-img-hgt {
+  height: 170px;
+}
+
+.image-div-hgt {
+  height: 85px;
+  text-align: center;
+}
+
+.w-50 {
+  width: 50%;
+}
